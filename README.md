@@ -1,5 +1,5 @@
 # Fox Game Project
-
+[Tic Tac Toe](https://lisicao.github.io/Tic-Tac-Toe/)
 ## Introduction
 Welcome to the Fox Game, an interactive web-based game that brings a fresh twist to the classic Tic-Tac-Toe. This game features a unique logic flow, offering a new experience different from the React tutorial version.
 
