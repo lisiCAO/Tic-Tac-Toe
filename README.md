@@ -10,11 +10,6 @@ Welcome to the Fox Game, an interactive web-based game that brings a fresh twist
 - **Development**: The complete development of HTML, CSS, and JavaScript was carried out by the project manager, ensuring a unique code logic and gameplay experience.
 
 ## Features
-- Original game interface designed with Figma.
-- Custom JavaScript workflow to define game functionality.
-- Distinctive proposal and development strategy, setting our game apart from existing tutorials.
-- Logo and color scheme crafted to align with the game's aesthetic.
-
 - **Customizable Gameplay**: Offering various setup options, including multiple player configurations and symbol selections.
 - **Adaptive Difficulty Levels**: Different board sizes are available to adjust the complexity of the game, catering to beginners and advanced players alike.
 - **Turn-Based Mechanics**: Enforcing a strategic approach with a turn timer to maintain the game pace.
@@ -26,6 +21,11 @@ Welcome to the Fox Game, an interactive web-based game that brings a fresh twist
 - HTML
 - CSS
 - JavaScript
+
+- Original game interface designed with Figma.
+- Custom JavaScript workflow to define game functionality.
+- Distinctive proposal and development strategy, setting our game apart from existing tutorials.
+- Logo and color scheme crafted to align with the game's aesthetic.
 
 ## Local Setup
 To run this game locally:
